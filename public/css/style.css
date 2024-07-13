@@ -1,0 +1,9 @@
+/* *{
+    font-family: 'Poppins';
+} */
+
+.admin-image {
+    height: 50px; /* Set the desired height for the profile image */
+    width: 50px; /* Set the desired width for the profile image */
+    object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+}
